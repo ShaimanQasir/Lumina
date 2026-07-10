@@ -1,0 +1,23 @@
+# LLM + Embeddings (Google)
+langchain
+langchain-core
+langchain-chroma
+langchain-community
+langchain-groq
+langchain-text-splitters
+langchain-huggingface
+sentence_transformers
+
+# Vector Store
+chromadb
+
+# Scraping + Parsing
+crawl4ai
+
+# Utils
+python-dotenv
+uvicorn
+fastapi
+pydantic
+
+

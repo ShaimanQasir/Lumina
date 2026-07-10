@@ -1,0 +1,17 @@
+[ Skip to main content ](https://docs.cloud.google.com/text-to-speech/docs?hl=en#main-content)
+# Cloud Text-to-Speech documentation 
+[Read product documentation](https://docs.cloud.google.com/text-to-speech/docs/basics)
+Cloud Text-to-Speech converts text or Speech Synthesis Markup Language (SSML) input into audio data of natural human speech. 
+[Go to the Cloud Text-to-Speech product page for more.](https://cloud.google.com/text-to-speech/)
+#### Start your proof of concept with $300 in free credit
+#### Keep exploring with 20+ always-free products.
+Access 20+ free products for common use cases, including AI APIs, VMs, data warehouses, and more. 
+format_list_numbered 
+### Guides
+find_in_page 
+### Reference
+### Resources
+###  Try Cloud TTS for yourself 
+Create an account to evaluate how our products perform in real-world scenarios. New customers also get $300 in free credits to run, test, and deploy workloads. 
+Except as otherwise noted, the content of this page is licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/), and code samples are licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0). For details, see the [Google Developers Site Policies](https://developers.google.com/site-policies). Java is a registered trademark of Oracle and/or its affiliates.
+Last updated 2026-07-07 UTC.
