@@ -1,5 +1,13 @@
 # Environments
 .env
 
-#Folders
-.data
+# Data & Vectors
+data/
+chroma_db/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
